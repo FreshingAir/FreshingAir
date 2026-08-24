@@ -20,7 +20,3 @@
 ### 对我的仓库感兴趣？
 
 那你感兴趣吧。别忘了[点个星星](https://docs.github.com/zh/get-started/exploring-projects-on-github/saving-repositories-with-stars)。或者[复刻你感兴趣的仓库](https://docs.github.com/zh/pull-requests/how-tos/work-with-forks/fork-a-repo)。不会的可以点击这些文字，获取与之有关联的教程。
-
-> [!CAUTION]
-> # 注意了！
-> <video src="https://github.com/user-attachments/assets/873d4d47-9f82-42ea-a420-200b19f513b0" controls>你的浏览器不支持 <code>video</code> 标签。</video>
